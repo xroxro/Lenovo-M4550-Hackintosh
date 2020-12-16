@@ -30,3 +30,8 @@
 
 ## Clover引导界面
 ![Clover](./CLOVER/misc/screenshot2.png)
+
+## 系统信息
+![Info1](./S0.png)
+![Info2](./S1.png)
+![Info3](./S2.png)
