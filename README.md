@@ -27,3 +27,6 @@
 - 睡眠唤醒正常
 - 有线网卡正常
 - 硬件编解码H.264正常
+
+## Clover引导界面
+![Clover](./CLOVER/misc/screenshot2.png)
