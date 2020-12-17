@@ -13,7 +13,7 @@
 |硬盘|Netac SSD 128GB SSD|
 |声卡|Realtek ALC662 (id-15)|
 |SMBIOS|iMac 15,1|
-|引导|OpenCore 0.6.3(for Bigsur)|
+|引导|OpenCore 0.6.4(update 12-17-2020 for Bigsur)|
 |   |Clover5070 (for Catalina)|
 
 ## 实现功能
