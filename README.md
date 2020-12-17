@@ -35,3 +35,6 @@
 ![Info1](./S0.png)
 ![Info2](./S1.png)
 ![Info3](./S2.png)
+
+### 可以完美升级11.1
+![update](./S3.png)
